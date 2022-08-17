@@ -1,0 +1,6 @@
+[
+    {
+        "name": "webserver",
+        "imageUri": "287961036137.dkr.ecr.us-east-1.amazonaws.com/myrepo:latest"
+    }
+]
